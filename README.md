@@ -7,6 +7,6 @@ for exam
 ##
 for remebering
 ##
-javaf
+javafx
 ##
 OO
